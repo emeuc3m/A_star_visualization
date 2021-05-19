@@ -3,6 +3,9 @@
 
 This project consists of a visualization on how the A* algorithm works.
 
+To run it, just download the astar.exe file, there is no need to download the whole project 
+nor to have python installed in your computer.
+
 Controls:
 - First left click: set start point.
 - Second left click: set goal.
