@@ -1,5 +1,5 @@
 # A* visualization by @emeuc3m
-# Idea based on a video by youtube channel Tech With Team.
+# Idea based on a video by youtube channel Tech With Tim.
 
 This project consists of a visualization on how the A* algorithm works.
 
